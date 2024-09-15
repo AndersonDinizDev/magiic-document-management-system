@@ -52,8 +52,8 @@ O código-fonte está organizado da seguinte maneira:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/magiic-dms.git
-   cd magiic-dms
+   git clone https://github.com/AndersonDinizDev/magiic-document-management-system
+   cd magiic-document-management-system
    ```
 
 2. Importe o projeto em sua IDE de preferência.
