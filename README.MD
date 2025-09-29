@@ -67,7 +67,7 @@ O código-fonte está organizado da seguinte maneira:
 
 ## Contribuição
 
-Este projeto foi desenvolvido por Anderson Luiz Diniz de Oliveira como parte de um projeto de extensão acadêmica. Feedback e sugestões são bem-vindos.
+Este projeto foi desenvolvido como parte de um projeto de extensão acadêmica. Feedback e sugestões são bem-vindos.
 
 ## Licença
 
